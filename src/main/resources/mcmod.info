@@ -1,0 +1,14 @@
+[
+{
+  "modid": "shutupmodelloader",
+  "name": "Shut Up, Model Loader",
+  "description": "Makes the model loader shut up.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["phantamanta44"],
+  "logoFile": "",
+  "screenshots": []
+}
+]
